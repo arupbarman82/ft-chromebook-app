@@ -8,3 +8,4 @@ dist/
 build/
 *.log
 tmp_jobs/
+ft_config.json
